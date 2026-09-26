@@ -4,6 +4,16 @@ Laboratorio de Flutter: diseño visual de un calendario construido principalment
 
 Muestra **Septiembre 2026** con su cuadrícula, eventos de colores por categoría y el **día de hoy destacado**, con un estilo propio de tarjetas de vidrio (glassmorphism) sobre imágenes de fondo.
 
+## Capturas
+
+| Calendario | Menú lateral | Mis eventos |
+|:---:|:---:|:---:|
+| <img src="capturas/01-calendario.png" width="250" alt="Pantalla del calendario"> | <img src="capturas/02-menu-lateral.png" width="250" alt="Menú lateral"> | <img src="capturas/03-mis-eventos.png" width="250" alt="Lista de eventos"> |
+
+| Avisos | Perfil | Nuevo evento |
+|:---:|:---:|:---:|
+| <img src="capturas/04-avisos.webp" width="250" alt="Pantalla de avisos"> | <img src="capturas/05-perfil.png" width="250" alt="Pantalla de perfil"> | <img src="capturas/06-nuevo-evento.png" width="250" alt="Formulario de nuevo evento"> |
+
 ## Características
 
 - **Mes y año** en un encabezado con imagen de fondo, flechas para cambiar de mes y saludo con foto de perfil.
